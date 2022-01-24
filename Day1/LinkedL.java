@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LL{
+public class LinkedL{
     public static void main(String[] args)
     {
 
